@@ -1,0 +1,52 @@
+.cac{
+   
+    text-align: center;
+    margin-top: 150px;
+    
+}
+#logs0{
+    margin: 12px;
+    width: 70px;
+}
+
+#logs{
+    width: 80px;
+}
+
+#logs1{
+    width: 120px;
+}
+
+.meg{
+    margin-top: 100px;
+    
+}
+p{
+    display: inline;
+    padding-right: 20px;
+}
+
+
+svg{
+    width: 60px;
+}
+
+#igm{
+    margin: 17px 3px 7px 5px;
+    width: 40px;
+}
+
+.redes{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    
+}
+
+
+footer{
+    margin-top: 382px;
+    padding: 2px;
+    background-color: rgb(161, 161, 161);
+    width: 100%;
+}

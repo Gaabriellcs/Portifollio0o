@@ -1,0 +1,31 @@
+
+
+.corpo{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 287px;
+    margin-left: 205px;
+    margin-right: 205px;
+}
+#imag{
+   width: 420px;
+    margin: auto;
+}
+
+#imag1{
+    width: 245px;
+    margin: auto;
+}
+
+.tam{
+    margin: 15px;
+}
+
+.centro{
+   /* display: block;
+    width: 61%;
+    margin: auto;*/
+}
+
